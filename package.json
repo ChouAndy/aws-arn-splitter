@@ -1,0 +1,26 @@
+{
+  "name": "aws-arn-splitter",
+  "version": "1.0.0",
+  "description": "A simple tool to split Amazon Resource Name.",
+  "homepage": "https://github.com/ChouAndy/aws-arn-splitter",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ChouAndy/aws-arn-splitter.git"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [
+    "aws",
+    "arn",
+    "split"
+  ],
+  "author": "ChouAndy",
+  "bugs": {
+    "url": "https://github.com/ChouAndy/aws-arn-splitter/issues"
+  },
+  "devDependencies": {
+    "tap": "^5.7.0"
+  }
+}
